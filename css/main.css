@@ -1,0 +1,23 @@
+.contenedor {
+	width: 900px;
+	border: grey 1px solid;
+	padding: 20px;
+	margin: 5px;
+	display: inline-block;
+}
+.caja1 {
+	border: 6px yellow solid;
+	margin: 8px;
+	width: 350px;
+	padding: 20px;
+	text-align: center;
+	display: block;
+}
+.caja2 {
+	border: 6px yellow solid;
+	margin: 60px;
+	width: 350px;
+	padding: 20px;
+	text-align: justify;
+	float: right;
+}
